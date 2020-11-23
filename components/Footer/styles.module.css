@@ -1,4 +1,8 @@
-/* Comentario remover bug */
+/* Comentario remover bug, o primeiro CSS nunca é aplicado. */
+.devSocial{
+    margin-top: 0px;
+}
+
 .git{
     margin-top:20px;
     text-indent: -99999px;
