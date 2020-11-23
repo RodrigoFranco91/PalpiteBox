@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+/*
+TODO CSS APLICADO AQUI É PEGO EM TODAS AS PÁGINAS
+img{
+    max-width: 35%;
+}
+
+.rodape img{
+    max-width: 20%;
+}
+
+*/

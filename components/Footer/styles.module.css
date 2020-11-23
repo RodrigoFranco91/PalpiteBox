@@ -1,0 +1,29 @@
+.rodape{
+    max-width: 20%;
+    @apply inline p-4;
+}
+
+.divSocial{
+    margin-top:20px;
+}
+
+.git{
+    text-indent: -99999px;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-image: url(../../public/github.png);
+}
+
+.linkedin{
+    text-indent: -99999px;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-image: url(../../public/linkedin.png);
+}
+
+.divfooter{
+    margin-top: 80px;
+    @apply bg-gray-700 p-4;
+}

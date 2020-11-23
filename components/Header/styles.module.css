@@ -1,0 +1,21 @@
+/*
+.teste{
+    background-color: red;
+}
+
+.container{
+    @aplly container mx-auto;
+}
+*/
+.logo{
+    max-width: 33%;
+    @apply mx-auto;
+}
+
+.wrapper{
+    @apply bg-gray-200  p-4;
+ };
+ 
+ 
+ 
+
