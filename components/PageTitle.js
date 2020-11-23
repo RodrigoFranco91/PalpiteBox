@@ -5,6 +5,7 @@ const PageTitle = ({ title }) => {
     return (
         <Head>
             <title>{title} - PalpiteBox</title>
+            <link rel='icon' href='/logo_palpitebox.png'></link>
         </Head>
     )
 }
