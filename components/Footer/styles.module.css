@@ -1,6 +1,6 @@
 /* Comentario remover bug, o primeiro CSS nunca é aplicado. */
 .devSocial{
-    margin-top: 0px;
+    margin-top: 1px;
 }
 
 .git{
