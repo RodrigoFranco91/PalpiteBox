@@ -1,8 +1,3 @@
-.rodape{
-    max-width: 20%;
-    @apply inline p-4;
-}
-
 .divSocial{
     margin-top:20px;
 }
@@ -26,4 +21,9 @@
 .divfooter{
     margin-top: 80px;
     @apply bg-gray-700 p-4;
+}
+
+.rodape{
+    max-width: 20%;
+    @apply inline p-4;
 }
